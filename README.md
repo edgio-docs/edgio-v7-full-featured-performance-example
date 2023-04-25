@@ -1,7 +1,6 @@
-# An Edgio Application Performance Example
-## Demo
+*This example is a work-in-progress and not ready for production use*
 
-https://edgio-community-examples-full-featured-performance-live.layer0-limelight.link/
+# An Edgio Application Performance Example
 
 ## Implemented Features
 
