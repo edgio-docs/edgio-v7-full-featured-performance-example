@@ -61,4 +61,4 @@ See [deploying](https://docs.edg.io/guides/deploying) for more information.
 
 ## Demo
 
-https://edgio-community-examples-v7-full-featured-perfor-f74158.edgio.link/
+https://edgio-community-examples-v7-full-featured-performance-live.edgio.link/
